@@ -1,0 +1,55 @@
+				AK Restaurant
+			Salt Lake, Kolkata-700061
+			GST.NO:- 27AHXPP3379HIZH
+-------------------------------------------------------------BILL-------------------------------------------------------------
+Date:- 26 / 12 / 2020 (Saturday)          				Time:- 21 : 0 : 12
+Customer Name:- ASHISH BHADRA
+Customer Contact:- 9876543211
+----------------------------------------------------------------------------------------------------------------------------------
+    DESCRIPTION				RATE	QUANTITY		AMOUNT
+----------------------------------------------------------------------------------------------------------------------------------
+Coffee Espresso				60	      1		  60
+
+Ice Tea (Lemon)				51	      1		  51
+
+Mineral Water				55	      3		  165
+
+Red Sea				150	      1		  150
+
+Dahi Bhalla(10 pcs.)				90	      2		  180
+
+Masala Paper Dosa				150	      1		  150
+
+Veg. Manchurian Dry				153	      1		  153
+
+Tandoori Paneer Tikka				220	      1		  220
+
+Dahi ke Kabab				179	      1		  179
+
+Malai Kofta				210	      1		  210
+
+Chole				141	      1		  141
+
+Butter Naan				58	      1		  58
+
+Stuffed Kulcha (Paneer)				65	      1		  65
+
+Soya Dum Biryani				220	      1		  220
+
+Matka Biryani With Raita				220	      1		  220
+
+Thali Special				280	      1		  280
+
+Chingri Malaikari(8 pcs.)				280	      1		  280
+
+Rogan Jos(8 pcs.)				360	      1		  360
+
+Chicken Handi(6 pcs.)				180	      1		  180
+
+Chocolate Almond Fudge				60	      1		  60
+
+Kesar Pista				128	      1		  128
+
+----------------------------------------------------------------------------------------------------------------------------------
+				Total price : Rs. 3510  /-
+----------------------------------------------------------------------------------------------------------------------------------

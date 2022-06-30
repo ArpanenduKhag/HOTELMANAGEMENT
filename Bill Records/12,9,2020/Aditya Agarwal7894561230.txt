@@ -1,0 +1,63 @@
+				AK Restaurant
+			Salt Lake, Kolkata-700061
+			GST.NO:- 27AHXPP3379HIZH
+-------------------------------------------------------------BILL-------------------------------------------------------------
+Date:- 12 / 9 / 2020 (Saturday)          				Time:- 13 : 19 : 5
+Customer Name:- Aditya Agarwal
+Customer Contact:- 7894561230
+----------------------------------------------------------------------------------------------------------------------------------
+    DESCRIPTION				RATE	QUANTITY		AMOUNT
+----------------------------------------------------------------------------------------------------------------------------------
+Coffee Cappuccino				51	      10		  510
+
+Kiwi Smoothie				150	      5		  750
+
+French Fries				106	      1		  106
+
+Grilled Sandwich				175	      1		  175
+
+Veg. Burger				72	      1		  72
+
+Pasta Spicy Tomato/Classical Cheese				190	      1		  190
+
+Super Veggie Pizza(Double Cheese)				265	      1		  265
+
+Pan Fried Noodles				135	      1		  135
+
+Gol Gappa (6 pcs.)				40	      10		  400
+
+Dahi Bhalla with Papri(8 pcs.)				90	      1		  90
+
+Masala Dosa (Butter)				125	      1		  125
+
+Mix Veg Uttapam				155	      1		  155
+
+Sambhar				35	      1		  35
+
+Chutney				15	      1		  15
+
+Crispy Spinach & Baby - Corn				198	      1		  198
+
+Veg. Munchow				109	      1		  109
+
+Veg Chopsouey				195	      1		  195
+
+Malai Kofta				210	      1		  210
+
+Dal Makhani				192	      1		  192
+
+Stuffed Kulcha (Paneer)				65	      1		  65
+
+Ras malai				40	      1		  40
+
+Gulab Jamun				40	      1		  40
+
+Chocolate Almond Fudge				60	      1		  60
+
+Butter Scotch				60	      1		  60
+
+Kesar Pista				128	      1		  128
+
+----------------------------------------------------------------------------------------------------------------------------------
+				Total price : Rs. 4320  /-
+----------------------------------------------------------------------------------------------------------------------------------

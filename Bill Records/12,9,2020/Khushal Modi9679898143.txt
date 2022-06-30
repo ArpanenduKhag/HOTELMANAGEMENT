@@ -1,0 +1,63 @@
+				AK Restaurant
+			Salt Lake, Kolkata-700061
+			GST.NO:- 27AHXPP3379HIZH
+-------------------------------------------------------------BILL-------------------------------------------------------------
+Date:- 12 / 9 / 2020 (Saturday)          				Time:- 13 : 32 : 9
+Customer Name:- Khushal Modi
+Customer Contact:- 9679898143
+----------------------------------------------------------------------------------------------------------------------------------
+    DESCRIPTION				RATE	QUANTITY		AMOUNT
+----------------------------------------------------------------------------------------------------------------------------------
+Ice Tea (Lemon)				51	      1		  51
+
+Mineral Water				55	      2		  110
+
+Watermelon Mojito				150	      1		  150
+
+Gol Gappa (6 pcs.)				40	      2		  80
+
+Bombay Vada Pav				102	      1		  102
+
+Paneer Momo(8 pcs.)				80	      1		  80
+
+Tandoori Pizza				250	      1		  250
+
+Pasta in Twin Sauce				190	      1		  190
+
+Club Sandwich				175	      1		  175
+
+Garlic Bread with Cheese				119	      1		  119
+
+Masala Onion Dosa (Butter)				146	      1		  146
+
+Veg. Munchow				109	      2		  218
+
+Dahi ke Kabab				179	      1		  179
+
+Malai Paneer Tikka				220	      1		  220
+
+Tandoori Paneer Tikka				220	      1		  220
+
+Veg. Manchurian Dry				153	      1		  153
+
+Veg Chopsouey				195	      1		  195
+
+Malai Kofta				210	      1		  210
+
+Kadhai Paneer				210	      1		  210
+
+Dal Makhani				192	      1		  192
+
+Garlic Naan Butter				60	      3		  180
+
+Stuffed Kulcha (Paneer)				65	      3		  195
+
+Jeera Pulao				161	      1		  161
+
+Ras malai				40	      1		  40
+
+Black Currant				60	      1		  60
+
+----------------------------------------------------------------------------------------------------------------------------------
+				Total price : Rs. 3886  /-
+----------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,69 @@
+				AK Restaurant
+			Salt Lake, Kolkata-700061
+			GST.NO:- 27AHXPP3379HIZH
+-------------------------------------------------------------BILL-------------------------------------------------------------
+Date:- 19 / 7 / 2020 (Sunday)          					Time:- 9 : 46 : 56
+Customer Name:- Arindam Khag
+Customer Contact:- 786541230
+----------------------------------------------------------------------------------------------------------------------------------
+    DESCRIPTION					RATE	QUANTITY		AMOUNT
+----------------------------------------------------------------------------------------------------------------------------------
+Espresso (Black)				55	      2		  110
+
+Mineral Water				55	      2		  110
+
+White Rosy				150	      1		  150
+
+Lime Ice / Orange				119	      1		  119
+
+French Fries				106	      2		  212
+
+Russian Salad/Maccroni				119	      2		  238
+
+Cream Pasta				180	      1		  180
+
+Pasta in Twin Sauce				190	      1		  190
+
+Tandoori Pizza				250	      1		  250
+
+Chicken Hakka Noodles				145	      1		  145
+
+Bombay Vada Pav				102	      1		  102
+
+Gol Gappa (6 pcs.)				40	      1		  40
+
+Chicken Momo(8 pcs.)				80	      1		  80
+
+Masala Rawa Dosa				156	      1		  156
+
+Sambhar				35	      1		  35
+
+Tandoori Paneer Tikka				220	      1		  220
+
+Masala Fried Pomfret(4 pcs.)				190	      1		  190
+
+Sheek Kabab(4pcs.)				120	      1		  120
+
+Sweet Corn				109	      1		  109
+
+Roomali Roti				17	      4		  68
+
+Tawa Parantha				53	      2		  106
+
+Papad				15	      2		  30
+
+Awadhi Mutton Biryani				360	      1		  360
+
+Hyderabadi Biryani				220	      1		  220
+
+Pineapple Raita				102	      1		  102
+
+Rogan Jos(8 pcs.)				360	      1		  360
+
+Chicken Handi(6 pcs.)				180	      1		  180
+
+Chingri Malaikari(8 pcs.)				280	      1		  280
+
+----------------------------------------------------------------------------------------------------------------------------------
+			Total price : Rs. 4462  /-
+----------------------------------------------------------------------------------------------------------------------------------

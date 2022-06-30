@@ -1,0 +1,57 @@
+				AK Restaurant
+			Salt Lake, Kolkata-700061
+			GST.NO:- 27AHXPP3379HIZH
+-------------------------------------------------------------BILL-------------------------------------------------------------
+Date:- 12 / 9 / 2020 (Saturday)          				Time:- 20 : 20 : 48
+Customer Name:- Prabas Rana
+Customer Contact:- 7908804445
+----------------------------------------------------------------------------------------------------------------------------------
+    DESCRIPTION				RATE	QUANTITY		AMOUNT
+----------------------------------------------------------------------------------------------------------------------------------
+Ice Tea (Lemon)				51	      1		  51
+
+Cold-Coffee (Frappe)				70	      1		  70
+
+Fresh lime Water Sweet / Salt				60	      1		  60
+
+Chicken Pasta				150	      1		  150
+
+Tandoori Pizza				250	      1		  250
+
+Chicken Hakka Noodles				145	      1		  145
+
+Pav Bhaji				140	      1		  140
+
+Dahi Bhalla with Papri(8 pcs.)				90	      1		  90
+
+Paneer Momo(8 pcs.)				80	      1		  80
+
+Masala Dosa (Butter)				125	      1		  125
+
+Masaledar Chicken Lollipop(4 pcs.)				160	      1		  160
+
+Fish pakora(6 pcs.)				135	      1		  135
+
+Fish Cutlets(4 pcs.)				80	      1		  80
+
+Malai Paneer Tikka				220	      1		  220
+
+Chicken Do piyaz(8 pcs.)				215	      1		  215
+
+Chicken Handi(6 pcs.)				180	      1		  180
+
+Chingri Malaikari(8 pcs.)				280	      1		  280
+
+ILISH Paturi(4 pcs.)				220	      1		  220
+
+Kaju Kishmish				60	      1		  60
+
+Kesar Pista				128	      1		  128
+
+Rasgulla				40	      1		  40
+
+Ras malai				40	      3		  120
+
+----------------------------------------------------------------------------------------------------------------------------------
+				Total price : Rs. 2999  /-
+----------------------------------------------------------------------------------------------------------------------------------
